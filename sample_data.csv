@@ -1,0 +1,31 @@
+﻿id,time,m1,m2,m3,user,city,country
+1,2/27/21 5:00 AM,61,0.520858109,0,john,new york,USA
+2,2/27/21 5:05 AM,97,0.697993609,1,tom,seattle,USA
+3,2/27/21 5:10 AM,17,0.578339138,2,tom,seattle,USA
+4,2/27/21 5:15 AM,73,0.816627175,3,dave,chicago,USA
+5,2/27/21 5:20 AM,50,0.562362322,6,john,new york,USA
+6,2/27/21 5:25 AM,41,0.157163045,8,tom,seattle,USA
+7,2/27/21 5:30 AM,84,0.360558097,10,pete,chicago,USA
+8,2/27/21 5:35 AM,26,0.676914803,6,avi,new york,USA
+9,2/27/21 5:40 AM,89,0.43864446,7,tom,seattle,USA
+10,2/27/21 5:45 AM,32,0.189414672,4,john,new york,USA
+11,2/27/21 5:50 AM,5,0.725040118,8,vini,new york,USA
+12,2/27/21 5:55 AM,2,0.003782741,2,pete,chicago,USA
+13,2/27/21 6:00 AM,96,0.3377983,6,dave,chicago,USA
+14,2/27/21 6:05 AM,7,0.328065746,7,vini,new york,USA
+15,2/27/21 6:10 AM,44,0.740505881,7,vini,new york,USA
+16,2/27/21 6:15 AM,87,0.816055998,6,john,new york,USA
+17,2/27/21 6:20 AM,85,0.504690604,10,tom,seattle,USA
+18,2/27/21 6:25 AM,37,0.622148568,5,sam,delhi,India
+19,2/27/21 6:30 AM,37,0.783245948,1,john,new york,USA
+20,2/27/21 6:35 AM,28,0.889095436,10,sam,delhi,India
+21,2/27/21 6:40 AM,41,0.778006155,8,dave,chicago,USA
+22,2/27/21 6:45 AM,7,0.730546638,3,john,new york,USA
+23,2/27/21 6:50 AM,38,0.402090891,3,avi,new york,USA
+24,2/27/21 6:55 AM,87,0.708732707,5,sam,delhi,India
+25,2/27/21 7:00 AM,93,0.170521367,0,vini,new york,USA
+26,2/27/21 7:05 AM,54,0.303627603,2,dave,chicago,USA
+27,2/27/21 7:10 AM,40,0.338916707,1,tom,seattle,USA
+28,2/27/21 7:15 AM,88,0.532606156,0,tom,seattle,USA
+29,2/27/21 7:20 AM,70,0.511192502,6,avi,new york,USA
+30,2/27/21 7:25 AM,41,0.961312524,8,pete,chicago,USA
